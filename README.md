@@ -96,3 +96,16 @@ CREATE TABLE cust_detail (...);
 
 COPY cc_detail FROM 'credit_card.csv' DELIMITER ',' CSV HEADER;
 COPY cust_detail FROM 'customer.csv' DELIMITER ',' CSV HEADER;
+I worked on was a Credit Card Financial Dashboard, where the objective was to analyze customer transaction and financial data to track key business KPIs.
+
+The dataset contained over 100,000 customer and transaction records, including spending patterns, payment behavior, and customer segments.
+
+The goal of this project was to build an interactive dashboard that could help monitor financial performance, customer behavior, and credit-related risk indicators.
+
+For this project, I used SQL for data extraction and transformation, and Power BI for dashboard development and visualization.
+
+I created dashboards to track key KPIs such as total spend, transaction trends, default rate, customer segmentation, and spending behavior across different customer groups.
+
+I also worked on data modeling, KPI calculations, and interactive filters so users could analyze trends dynamically.
+
+As an outcome, the dashboard made it easier to monitor customer financial behavior, identify risk trends, and support data-driven decisions related to customer targeting and credit performance
